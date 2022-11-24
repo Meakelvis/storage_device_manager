@@ -1,1 +1,0 @@
-CreateObject("Wscript.Shell").Run "D:\Projects\file-monitor\tracker.bat", 0 , True

@@ -1,5 +1,5 @@
 @echo off
 
-python D:\Projects\file-monitor\main.py
+C:\Python39\python.exe D:\Projects\file-monitor\main.py
 
 @pause
