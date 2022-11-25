@@ -3,7 +3,7 @@ import win32evtlog
 import mysql.connector
 
 
-@main_requires_admin
+# @main_requires_admin
 def track():
     # connect to the db
     mydb = mysql.connector.connect(
